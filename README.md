@@ -54,11 +54,11 @@ Our version of homework; solve a problem and practice the skills we cover in cla
 
 All class sessions are recorded. Links will be added here as the class progresses:
 
-* ~~[Session 1 Recording]()~~ passcode ` `
-* ~~[Session 2 Recording]()~~ passcode ` `
-* ~~[Session 3 Recording]()~~ passcode ` `
-* ~~[Session 4 Recording]()~~ passcode ` `
-* ~~[Session 5 Recording]()~~ passcode ` `
+* ~~[Session 1 Recording]()~~, passcode ` `
+* ~~[Session 2 Recording]()~~, passcode ` `
+* ~~[Session 3 Recording]()~~, passcode ` `
+* ~~[Session 4 Recording]()~~, passcode ` `
+* ~~[Session 5 Recording]()~~, passcode ` `
 
 ## Zine
 
