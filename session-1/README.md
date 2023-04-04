@@ -2,7 +2,7 @@
 
 * [**Session 1 code**](/session-1/code)
 * [**Session 1 challenges**](/session-1/challenges)
-* [**Session 1 recording**](https://cooper.zoom.us/rec/share/Qy-CFjzCEwE6nFMGcxu3-_hF8IAW7aaPoofPRJlWJ5R2f3kYeU0v-9VA2CrwBb2L.ItwBu4KLh_bJH_zd) password `&8X9IgnJ`
+* [**Session 1 recording**](https://github.com/djrrb/Python-for-Visual-Designers-Spring-2023#recordings)
 * [**Slides**](/session-1/intro-slides.pdf)
 
 

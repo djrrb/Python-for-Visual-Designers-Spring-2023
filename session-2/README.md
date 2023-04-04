@@ -2,7 +2,7 @@
 
 * [**Session 2 code**](/session-2/code)
 * [**Session 2 challenges**](/session-2/challenges)
-* [**Session 2 recording**](https://cooper.zoom.us/rec/share/cnRDO2Oq61Y0IRpyApiVU0j-2GMp97YdhT9k0vTkIMkDh6NUH4DDtSa7r3Vr6CqF.juufgeiO980i6xlu) passcode `HyL6J$jb`
+* [**Session 2 recording**](https://github.com/djrrb/Python-for-Visual-Designers-Spring-2023#recordings)
 
 
 ## Rough outline

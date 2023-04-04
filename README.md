@@ -45,20 +45,20 @@ A record of the scripts that we write together in class.
 
 Our version of homework; solve a problem and practice the skills we cover in class. Feel free to skip ahead, or riff on these to create your own problems. Possible solutions are available if you want to peek. Post what you create in `#show-and-tell`!
 
-* ~~[Session 1 Challenges](/session-1/challenges)~~
-* ~~[Session 2 Challenges](/session-2/challenges)~~
-* ~~[Session 3 Challenges](/session-3/challenges)~~
-* ~~[Session 4 Challenges](/session-4/challenges)~~
+* [Session 1 Challenges](/session-1/challenges)
+* [Session 2 Challenges](/session-2/challenges)
+* [Session 3 Challenges](/session-3/challenges)
+* [Session 4 Challenges](/session-4/challenges)
 
 ## Recordings
 
 All class sessions are recorded. Links will be added here as the class progresses:
 
-* ~~[Session 1 Recording]()~~ passcode ``
-* ~~[Session 2 Recording]()~~ passcode ``
-* ~~[Session 3 Recording]()~~ passcode ``
-* ~~[Session 4 Recording]()~~ passcode ``
-* ~~[Session 5 Recording]()~~ passcode ``
+* ~~[Session 1 Recording]()~~ passcode ` `
+* ~~[Session 2 Recording]()~~ passcode ` `
+* ~~[Session 3 Recording]()~~ passcode ` `
+* ~~[Session 4 Recording]()~~ passcode ` `
+* ~~[Session 5 Recording]()~~ passcode ` `
 
 ## Zine
 
