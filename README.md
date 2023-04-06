@@ -62,7 +62,7 @@ All class sessions are recorded. Links will be added here as the class progresse
 
 ## Zine
 
-Each student is encouraged to contribute 6 pages or 3 spreads for the class zine, which will be available in PDF as well as print-on-demand. The format is A5, full bleed, and the submission deadline is August 25. [Drawbot templates »](/zine)
+Each student is encouraged to contribute 6 pages or 3 spreads for the class zine, which will be available in PDF as well as print-on-demand. The format is A5 portrait, full bleed, and the submission deadline is August 25. [Drawbot templates »](/zine)
 
 Past zines, for inspiration:
 
