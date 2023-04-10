@@ -2,7 +2,7 @@
 ##################
 ##################
 
-# if you copy this chunk into the top of your script
+# if you copy this chunk of code into the top of your script
 # you can use the fillHex('#000000') and strokeHex('#000000') functions
 # to assign the current fill or stroke
 
