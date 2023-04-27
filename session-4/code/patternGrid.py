@@ -1,7 +1,4 @@
 # draw grid
-
-
-
 myXCount, myYCount = 3, 3
 
 myCellWidth = width()/myXCount
