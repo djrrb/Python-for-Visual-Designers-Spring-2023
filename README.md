@@ -56,8 +56,8 @@ All class sessions are recorded. Links will be added here as the class progresse
 
 * [Session 1 Recording](https://cooper.zoom.us/rec/share/XQ5hgUvLesSAykhMXIBPtiPZDrRl-ChFeABaNKOyNZUtEoQcLN79nElWZ_yZGyg2.1RSHN4L78W8Hr5uO), passcode `tcW.n1FH`
 * [Session 2 Recording](https://cooper.zoom.us/rec/share/VKW7owQ_wrIF0ONHUZnn_-dlsMfAdDZUVzwVtjEWsYLhzSBIrM5byif0-keA45fc.XDyo20hQT005Fjy3), passcode `5Q?w21EJ`
-* ~~[Session 3 Recording]()~~, passcode ` `
-* ~~[Session 4 Recording]()~~, passcode ` `
+* ~~[Session 3 Recording](https://cooper.zoom.us/rec/share/QdpAvFQ5aEV0AbeGQGhaJZh047efFwL2jzEwHcexf3yIshdHKrIgeta5WDxrUd-y.h2MHerhJugvopnYF)~~, passcode `7xafw%ZA`
+* ~~[Session 4 Recording](https://cooper.zoom.us/rec/share/cBo7Dl7Y0X9ehMlI6HdPg_UF_9pVsFXd3eSslBpNAP-7pqJ2HLWsLGV9DPXmSMhW.lGw3-VDBr19A8gkm)~~, passcode `S=BA^5MS`
 * ~~[Session 5 Recording]()~~, passcode ` `
 
 ## Zine
