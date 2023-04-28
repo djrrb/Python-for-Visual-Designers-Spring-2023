@@ -1,8 +1,10 @@
 # Session 4 Challenges
 
-# Business card contact sheet
+# Business card
 
-Take the business cards we made during class, turn that into a function. Then make a contact sheet that draws a grid of cards on the page.
+Finish designing a business card based on the spreadsheet.
+
+Bonus: Take the business cards we made during class, turn that into a function. Then make a contact sheet that draws a grid of cards on the page.
 
 ![businessCardContactSheet](businessCardContactSheet.png)
 
