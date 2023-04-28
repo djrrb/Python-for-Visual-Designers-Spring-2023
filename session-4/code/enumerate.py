@@ -1,0 +1,1 @@
+print(list(enumerate('hello world')))

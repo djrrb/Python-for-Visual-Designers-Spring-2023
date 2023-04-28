@@ -33,6 +33,7 @@ for myYNumber in range(myYCount):
             #rect(0, 0, myCellWidth, myCellHeight)
             # replace a rectangle with a different swatch
             myPatternSwatch()
+            print(myPatternSwatch())
             translate(myCellWidth, 0) # move to the right
     translate(0, myCellHeight) # move up
 

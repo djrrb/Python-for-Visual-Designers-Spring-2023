@@ -1,3 +1,4 @@
+# create a string with some formatting
 myString = FormattedString(
     'Hello', 
     fontSize=100, 
@@ -7,7 +8,9 @@ myString = FormattedString(
     openTypeFeatures={'smcp': True},
 )
 
+# append to it
 myString.append(' world', fill=(1, 0, 0), font='MinionPro-It', tracking=-10)
 
+# draw the result
 text(myString, (0, 0))
 
