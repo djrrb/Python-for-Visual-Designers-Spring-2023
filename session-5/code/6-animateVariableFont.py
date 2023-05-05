@@ -32,4 +32,4 @@ for myEase in [myEase1, myEase2]:
         # save one image per frame
         #saveImage('myFrame'+str(myFrame)+'.png') 
 # save one image for the whole thing
-saveImage('circleAnimation.gif')
+saveImage('variableFontAnimation.gif')
