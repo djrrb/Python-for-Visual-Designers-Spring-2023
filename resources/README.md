@@ -24,12 +24,14 @@
 * [Daily Drawbot](https://dailydrawbot.tumblr.com), fun animations by [Just van Rossum](https://twitter.com/justvanrossum)
 * [Lowlands](http://hansje.net/Lowlands-2017) by [Hansje van Halem](http://hansje.net) and [Just van Rossum](https://twitter.com/justvanrossum)
 * [Drawbot Plotter](https://github.com/jenskutilek/DrawBotPlotter) by Jens Kutilek
-* [Incomplete Cubes Generator](https://github.com/robweychert/incomplete-cubes-generator) by Rob Weychert
 * [Old Glory](https://github.com/djrrb/OldGlory) flag generator by me
 * [Overlay PDF](https://github.com/scribbletone/overlay-pdf) by scribbletone
 * [Reticulate](https://github.com/werls/reticulate) (halftone) by Werllen Castro
 * [Maurice Meilleur](https://mauricemeilleur.net)
 * [Recursive font](https://github.com/arrowtype/recursive/tree/e953d2a890bf3edce60daec4b467be79313a11a0/src/proofs/drawbot-specimens-and-diagrams) by Arrow Type
+* [Plus equals](https://github.com/robweychert/plus-equals) by Rob Weychert
+* [Incomplete Cubes Generator](https://github.com/robweychert/incomplete-cubes-generator) by Rob Weychert
+
 
 ### Drawbot script collections
 
