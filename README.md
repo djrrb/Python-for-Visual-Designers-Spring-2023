@@ -39,7 +39,7 @@ A record of the scripts that we write together in class.
 * [Session 2 Code](/session-2/code)
 * [Session 3 Code](/session-3/code)
 * [Session 4 Code](/session-4/code)
-* ~~[Session 5 Code](/session-5/code)~~
+* [Session 5 Code](/session-5/code)
 
 ## Challenges
 
@@ -58,7 +58,7 @@ All class sessions are recorded. Links will be added here as the class progresse
 * [Session 2 Recording](https://cooper.zoom.us/rec/share/VKW7owQ_wrIF0ONHUZnn_-dlsMfAdDZUVzwVtjEWsYLhzSBIrM5byif0-keA45fc.XDyo20hQT005Fjy3), passcode `5Q?w21EJ`
 * [Session 3 Recording](https://cooper.zoom.us/rec/share/QdpAvFQ5aEV0AbeGQGhaJZh047efFwL2jzEwHcexf3yIshdHKrIgeta5WDxrUd-y.h2MHerhJugvopnYF), passcode `7xafw%ZA`
 * [Session 4 Recording](https://cooper.zoom.us/rec/share/cBo7Dl7Y0X9ehMlI6HdPg_UF_9pVsFXd3eSslBpNAP-7pqJ2HLWsLGV9DPXmSMhW.lGw3-VDBr19A8gkm), passcode `S=BA^5MS`
-* ~~[Session 5 Recording]()~~, passcode ` `
+* [Session 5 Recording](https://cooper.zoom.us/rec/share/8Nqho0Zf9WGdIftRYGvErnu9wiiADrGNUtvp2hXp_LThLGaTTmZSTYyj67bFb8G8.Teky0ZtKKCrIF18o), passcode `iU1*VaT3`
 
 ## Zine
 
